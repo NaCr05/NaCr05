@@ -50,6 +50,6 @@
 
 ## Selected Work
 
-- ![Product](./assets/badges/product.svg) [**Skill Atlas**](https://github.com/NaCr05/skill-atlas) · Windows-first control panel for discovering and safely using Codex Skills.
-- ![Skill](./assets/badges/skill.svg) [**Build Engineering Harness**](https://github.com/NaCr05/build-engineering-harness-skill) · Evidence-led repository auditing and verification.
-- ![Plugin](./assets/badges/plugin.svg) [**Project Preflight**](https://github.com/NaCr05/project-preflight) · Rough ideas to implementation-ready plans.
+- [**Skill Atlas**](https://github.com/NaCr05/skill-atlas) · Windows-first control panel for discovering and safely using Codex Skills.
+- [**Build Engineering Harness**](https://github.com/NaCr05/build-engineering-harness-skill) · Evidence-led repository auditing and verification.
+- [**Project Preflight**](https://github.com/NaCr05/project-preflight) · Rough ideas to implementation-ready plans.

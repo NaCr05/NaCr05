@@ -50,6 +50,6 @@
 
 ## Selected Work
 
-- ![Product](https://img.shields.io/badge/Product-1F6FEB?style=flat-square) [**Skill Atlas**](https://github.com/NaCr05/skill-atlas) · Windows-first control panel for discovering and safely using Codex Skills.
-- ![Skill](https://img.shields.io/badge/Skill-287D7B?style=flat-square) [**Build Engineering Harness**](https://github.com/NaCr05/build-engineering-harness-skill) · Evidence-led repository auditing and verification.
-- ![Plugin](https://img.shields.io/badge/Plugin-6E40C9?style=flat-square) [**Project Preflight**](https://github.com/NaCr05/project-preflight) · Rough ideas to implementation-ready plans.
+- ![Product](./assets/badges/product.svg) [**Skill Atlas**](https://github.com/NaCr05/skill-atlas) · Windows-first control panel for discovering and safely using Codex Skills.
+- ![Skill](./assets/badges/skill.svg) [**Build Engineering Harness**](https://github.com/NaCr05/build-engineering-harness-skill) · Evidence-led repository auditing and verification.
+- ![Plugin](./assets/badges/plugin.svg) [**Project Preflight**](https://github.com/NaCr05/project-preflight) · Rough ideas to implementation-ready plans.

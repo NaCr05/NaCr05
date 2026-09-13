@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:zhenhuanwang@link.cuhk.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-zhenhuanwang%40link.cuhk.edu.cn-CF4C48?style=flat-square&amp;labelColor=555555&amp;logo=gmail&amp;logoColor=white"></a>
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhenhuan%20Wang-0A66C2?style=flat-square&amp;labelColor=555555&amp;logo=linkedin&amp;logoColor=white">
+  <a href="https://www.linkedin.com/in/zhenhuan-wang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhenhuan%20Wang-0A66C2?style=flat-square&amp;labelColor=555555&amp;logo=linkedin&amp;logoColor=white"></a>
   <a href="https://orcid.org/0009-0001-2400-1839"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0001--2400--1839-A6CE39?style=flat-square&amp;labelColor=555555&amp;logo=orcid&amp;logoColor=white"></a>
   <img alt="Based in Shenzhen" src="https://img.shields.io/badge/Based%20in-Shenzhen-3178C6?style=flat-square&amp;labelColor=555555&amp;logo=googlemaps&amp;logoColor=white">
 </p>
